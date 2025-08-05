@@ -33,7 +33,7 @@ Here are a couple of screenshots from the main dashboard pages:
 ![Dashboard Overview](https://googleusercontent.com/file_content/1)
 
 ### Sales Forecasting
-![Sales Forecasting](https://googleusercontent.com/file_content/0)
+![Sales Forecasting](https://github.com/himeshbist/Global-sales-Dashboard/blob/bbe407b82fbea8e05ea42ca14d0046df89ea29c5/Forecasting_Dashboard.jpg)
 
 ---
 
