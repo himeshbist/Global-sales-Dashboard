@@ -30,7 +30,7 @@ You can view and interact with the live, fully-featured dashboard here:
 Here are a couple of screenshots from the main dashboard pages:
 
 ### Main Overview
-![Dashboard Overview](https://github.com/himeshbist/Global-sales-Dashboard/blob/1a51e5b28dffed092a820e66d218307de78d6ed4/Global%20Sales%20DashBoard.pbix)
+![Dashboard Overview](https://github.com/himeshbist/Global-sales-Dashboard/blob/169edfb77a85017a11b2ed5f318a87ca53f71c91/Sales_Dashboard.jpg)
 
 ### Sales Forecasting
 ![Sales Forecasting](https://github.com/himeshbist/Global-sales-Dashboard/blob/bbe407b82fbea8e05ea42ca14d0046df89ea29c5/Forecasting_Dashboard.jpg)
